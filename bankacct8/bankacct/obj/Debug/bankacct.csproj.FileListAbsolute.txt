@@ -1,0 +1,12 @@
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\bin\Debug\bankacct.exe.config
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\bin\Debug\bankacct.exe
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\bin\Debug\bankacct.pdb
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.csproj.AssemblyReference.cache
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.csproj.SuggestedBindingRedirects.cache
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.amountForm.resources
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.Form1.resources
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.Properties.Resources.resources
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.csproj.GenerateResource.cache
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.csproj.CoreCompileInputs.cache
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.exe
+C:\Users\frankiewhite\Source\Repos\bankacct8\bankacct\obj\Debug\bankacct.pdb
